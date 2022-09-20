@@ -1,0 +1,52 @@
+Data Sources
+Part 1: Github Repository Link
+
+https://github.com/jenestrom1/INFO2950_FA22.git 
+
+------------------------
+
+Part 2: Datasets with Potential Project Ideas and Context
+
+Motivations for Data:
+
+Being in Ithaca, we are interested in how daylight affects happiness. It is often expressed that a prolonged lack of sunlight can lead to Seasonal Affective Disorder, so what does the data suggest? To assess this, we’d like to look at latitude data for different countries and compare it to data that measures levels of happiness. Countries that are farther north will experience greater periods of darkness in the Nov-Feb months, while in the south, the same is true for the July - Sep period. How does this affect happiness?
+
+Data Source 1:
+
+https://www.kaggle.com/datasets/paultimothymooney/latitude-and-longitude-for-every-country-and-state
+
+Additional Information:
+
+This dataset is from Kaggle (original source is https://developers.google.com/public-data/docs/canonical/countries_csv) and it is on countries and their latitude and longitude.
+
+Data Source 2:
+
+https://ourworldindata.org/happiness-and-life-satisfaction#licence
+
+Additional Information: 
+
+This dataset is from Our World in Data and contains various metrics of happiness, including responses to questions like "On the whole are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead?". 
+
+Data Source 3:
+
+https://ourworldindata.org/suicide 
+
+Additional Information:
+
+Since I felt that “happiness” introduces a range of subjectivity that may cloud accurate results, I wanted to look at more direct measurements of happiness or unhappiness, one of which could be suicide rates. The dataset is from OECD and contains data on suicide rates by country. My main issue with this is that it is quite explicit and that there are potentially less triggering types of data to work with.
+
+------------------------
+
+Part 3: Questions
+
+- When trying to assess happiness, one core issue is that a certain metric may be very subjective or tied to a certain component of happiness. Is it a reasonable approach to average different measurements of happiness across different surveys?
+
+- How do we account for potentially intervening factors, such as the wealth of a country, which is likely to affect the data? For example, many countries with high latitudes are also wealthy.
+
+- According to Our World in Data, people tend to underestimate how happy others think they are. How can we account for this in our measurement of happiness?
+
+- Do you think that there is a less explicit measurement of happiness than suicide rates which we could explore?
+
+- How should we parameterize the period in which we are assessing happiness? Most datasets on happiness (especially surveys) are assessed on an annual basis. However, the effect of long periods of darkness, if they exist, are possibly only seen during that specific time of the year. In fact, much longer periods of sunlight would be observed during the opposite time of the year, clouding any potential correlation.
+
+
