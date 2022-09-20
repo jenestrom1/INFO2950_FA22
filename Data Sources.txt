@@ -25,7 +25,7 @@ https://ourworldindata.org/happiness-and-life-satisfaction#licence
 
 Additional Information: 
 
-This dataset is from Our World in Data and contains various metrics of happiness, including responses to questions like "On the whole are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead?". 
+This dataset is from Our World in Data and contains various metrics of happiness, including responses to questions like "On the whole are you very satisfied, fairly satisfied, not very satisfied or not at all satisfied with the life you lead?". It also includes analysis on potential connections with metrics like Income and Life Expectancy. Much of the data is collected from surveys such as the General Social Survey.
 
 Data Source 3:
 
@@ -33,7 +33,7 @@ https://ourworldindata.org/suicide
 
 Additional Information:
 
-Since I felt that “happiness” introduces a range of subjectivity that may cloud accurate results, I wanted to look at more direct measurements of happiness or unhappiness, one of which could be suicide rates. The dataset is from OECD and contains data on suicide rates by country. My main issue with this is that it is quite explicit and that there are potentially less triggering types of data to work with.
+Since I felt that “happiness” introduces a range of subjectivity that may cloud accurate results, I wanted to look at more direct measurements of happiness or unhappiness, one of which could be suicide rates. The dataset is from OECD and contains data on suicide rates by country. My main issue with this is that it is quite explicit and that there are potentially less triggering types of data to work with. The data includes suicide rates segmented by a variety of factors, such as country, age, gender and method.
 
 ------------------------
 
